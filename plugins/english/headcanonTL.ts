@@ -1,3 +1,4 @@
+// Trigger HeadcanonTL plugin publishing workflow.
 import { load, type Cheerio, type CheerioAPI } from 'cheerio';
 import type { Element } from 'domhandler';
 import { fetchApi } from '@libs/fetch';
